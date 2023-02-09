@@ -8,11 +8,11 @@ The Open Hackathons program presents a unique opportunity for scientists, resear
 Bootcamps are designed to help build confidence and eventually prepare developers to participate in Hackathons
 This repository contains bootcamp material for high performance computing (HPC), artificial intelligence (AI), and convergence of both
 
-GPU Bootcamps are designed to help build confidence in Accelerated Computing and eventually prepare developers to enroll for [Hackathons](http://gpuhackathons.org/)
+GPU Bootcamps are designed to help build confidence in Accelerated Computing and eventually prepare developers to enroll for [Hackathons](http://openhackathons.org/)
 
 This repository consists of GPU bootcamp material for HPC, AI and convergence of both:
 
-- HPC :: 
+- __HPC__ :: 
 This bootcamp content focuses on how to follow the “Analyze, Parallelize, and Optimize” cycle to write parallel codes using different parallel programming models for accelerating HPC simulations.
 
 | Lab      | Description |
@@ -23,7 +23,7 @@ This bootcamp content focuses on how to follow the “Analyze, Parallelize, and 
 | [HPC Profiler](https://github.com/openhackathons-org/HPC_Profiler)  | his repository contains learning materials and exercises for NVIDIA Nsight Tools. Gola is to learn how to profile your application with NVIDIA Nsight Systems,Compute and NVTX API calls to find performance limiters and bottlenecks and apply incremental parallelization strategies |
 
 
-- Convergence of HPC and AI :: 
+- __Convergence of HPC and AI__ :: 
 The bootcamp content focuses on how AI can accelerate HPC simulations by introducing concepts of Deep Neural Networks, including data pre-processing, techniques on how to build, compare and improve accuracy of deep learning models. 
 
 | Lab      | Description |
@@ -32,7 +32,7 @@ The bootcamp content focuses on how AI can accelerate HPC simulations by introdu
 | [CFD Flow Prediction](https://github.com/openhackathons-org/gpubootcamp/tree/master/hpc_ai/ai_science_cfd)      | This Bootcamp will introduce developers to fundamentals of AI and how they can be applied to CFD (Computational Fluid Dynamics) |
 | [PINN](https://github.com/openhackathons-org/gpubootcamp/tree/master/hpc_ai/PINN)      | This Bootcamp will introduce developers to fundamentals of using Physics Informed Neural Network and how they can be applied to different scientific domains using Nvidia Modulus |
 
-- [AI](https://github.com/gpuhackathons-org/gpubootcamp/tree/master/ai)::
+- __AI__ ::
 The bootcamp content focuses on using popular accelerated AI frameworks and using optimization techniques to get max performance from accelerators like GPU.
 
 
