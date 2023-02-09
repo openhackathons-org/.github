@@ -8,9 +8,9 @@ The Open Hackathons program presents a unique opportunity for scientists, resear
 Bootcamps are designed to help build confidence and eventually prepare developers to participate in Hackathons
 This repository contains bootcamp material for high performance computing (HPC), artificial intelligence (AI), and convergence of both
 
-GPU Bootcamps are designed to help build confidence in Accelerated Computing and eventually prepare developers to enroll for [Hackathons](http://openhackathons.org/)
+Bootcamps are designed to help build confidence in Accelerated Computing and eventually prepare developers to enroll for [Hackathons](http://openhackathons.org/)
 
-This repository consists of GPU bootcamp material for HPC, AI and convergence of both:
+This repository consists of bootcamp material for HPC, AI and convergence of both:
 
 - __HPC__ :: 
 This bootcamp content focuses on how to follow the “Analyze, Parallelize, and Optimize” cycle to write parallel codes using different parallel programming models for accelerating HPC simulations.
