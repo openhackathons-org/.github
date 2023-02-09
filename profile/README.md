@@ -30,7 +30,7 @@ The bootcamp content focuses on how AI can accelerate HPC simulations by introdu
 | ----------- | ----------- |
 | [Weather Pattern Recognition](https://github.com/openhackathons-org/gpubootcamp/tree/master/hpc_ai/ai_science_climate)      | This Bootcamp will introduce developers to fundamentals of AI and how data driven approach can be applied to Climate/Weather domain |
 | [CFD Flow Prediction](https://github.com/openhackathons-org/gpubootcamp/tree/master/hpc_ai/ai_science_cfd)      | This Bootcamp will introduce developers to fundamentals of AI and how they can be applied to CFD (Computational Fluid Dynamics) |
-| [PINN](https://github.com/openhackathons-org/gpubootcamp/tree/master/hpc_ai/PINN)      | This Bootcamp will introduce developers to fundamentals of using Physics Informed Neural Network and how they can be applied to different scientific domains using Nvidia Modulus |
+| [PINN](https://github.com/openhackathons-org/gpubootcamp/tree/master/hpc_ai/PINN)      | This Bootcamp will introduce developers to fundamentals of using Physics Informed Neural Network and how they can be applied to different scientific domains using NVIDIA® Modulus |
 
 - __AI__ ::
 The bootcamp content focuses on using popular accelerated AI frameworks and using optimization techniques to get max performance from accelerators like GPU.
@@ -46,11 +46,6 @@ Each lab contains docker and singularity definition files. Follow the readme fil
 
 # Contribution
 - The repository uses Apache 2.0 license. For more details on folder structure developers may refer to CONTRIBUTING.md file.
-
-## Authors and Acknowledgment
-
-See [Contributors](https://github.com/gpuhackathons-org/contributors) for a list of contributors towards this repositories.
-
 
 # Feature Request or filing issues
 - Bootcamp users may request for newer training material or file a bug by filing a github issues
