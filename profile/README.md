@@ -5,12 +5,8 @@
 
 The Open Hackathons program presents a unique opportunity for scientists, researchers, and developers to build collaborations and learn the hands-on skills needed to accelerate and optimize their applications using a variety of programming models, libraries and tools. Currently, we offer two types of events: Hackathons and Bootcamps.
 
-Bootcamps are designed to help build confidence and eventually prepare developers to participate in Hackathons
-This repository contains bootcamp material for high performance computing (HPC), artificial intelligence (AI), and convergence of both
-
-Bootcamps are designed to help build confidence in Accelerated Computing and eventually prepare developers to enroll for [Hackathons](http://openhackathons.org/)
-
-This repository consists of bootcamp material for HPC, AI and convergence of both:
+Bootcamps are designed to help build confidence and eventually prepare developers to participate in [Hackathons](http://openhackathons.org/)
+This repository contains bootcamp material for high performance computing (HPC), Artificial Intelligence (AI), and convergence of both.
 
 - __HPC__ :: 
 This bootcamp content focuses on how to follow the “Analyze, Parallelize, and Optimize” cycle to write parallel codes using different parallel programming models for accelerating HPC simulations.
@@ -20,7 +16,7 @@ This bootcamp content focuses on how to follow the “Analyze, Parallelize, and 
 | [N-Ways](https://github.com/openhackathons-org/gpubootcamp/tree/master/hpc/nways)      | This Bootcamp will cover multiple GPU programming models and choose the one that best fits your needs. The material supports different programming langauges including C ( CUDA C, OpenACC C, OpenMP C, C++ stdpar ),  Fortran ( CUDA Fortran, OpenACC Fortran, OpenMP Fortran, ISO DO CONCURRENT ) Python ( Numba, CuPy )       |
 | [OpenACC](https://github.com/openhackathons-org/gpubootcamp/tree/master/hpc/openacc)   | The Bootcamp will cover how to write portable parallel program that can run on multicore CPUs and accelerators like GPUs and how to apply incremental parallelization strategies using OpenACC       |
 | [Multi GPU Programming Model](https://github.com/openhackathons-org/gpubootcamp/tree/master/hpc/multi_gpu_nways)   | This bootcamp will cover scaling applications to multiple GPUs across multiple nodes. Moreover, understanding of the underlying technologies and communication topology will help us utilize high-performance NVIDIA libraries to extract more performance out of the system     |
-| [HPC Profiler](https://github.com/openhackathons-org/HPC_Profiler)  | his repository contains learning materials and exercises for NVIDIA Nsight Tools. Gola is to learn how to profile your application with NVIDIA Nsight Systems,Compute and NVTX API calls to find performance limiters and bottlenecks and apply incremental parallelization strategies |
+| [HPC Profiler](https://github.com/openhackathons-org/HPC_Profiler)  | This repository contains learning materials and exercises for NVIDIA Nsight Tools. Goal is to learn how to profile your application with NVIDIA Nsight Systems,Compute and NVTX API calls to find performance limiters and bottlenecks and apply incremental parallelization strategies |
 
 
 - __Convergence of HPC and AI__ :: 
