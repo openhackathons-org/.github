@@ -37,6 +37,9 @@ The bootcamp content focuses on using popular accelerated AI frameworks and usin
 | ----------- | ----------- |
 | [End to End Computer Vision](https://github.com/openhackathons-org/End-to-End-Computer-Vision) | This repository contains the material for the end-to-end computer vision bootcamp, the goal of which is to build a complete end-to-end computer vision pipeline for an object detection application. This bootcamp will introduce participants to multiple NVIDIA® SDKs, most notably NVIDIA TAO Toolkit, NVIDIA TensorRT™, NVIDIA Triton™ Inference Server, and NVIDIA DeepStream SDK. Participants will also have hands-on experience in data preprocessing, model training, optimization, and deployment at scale       |
 | [AI Profiler](https://github.com/openhackathons-org/AI-Profiler)   | Learn how optimizing a Deep Neural Network (DNN) training  using profiling tools   |
+| [End to End NLP](https://github.com/openhackathons-org/End-to-End-NLP) | This repository contains the material for the End-To-End NLP bootcamp, the goal of which is to build a complete end-to-end NLP pipeline for Question Answering application. This bootcamp will introduce participants to multiple NVIDIA® SDKs, most notably NVIDIA TAO Toolkit, NVIDIA TensorRT™, and NVIDIA RIVA. Participants will also have hands-on experience in SQuAD data preprocessing, BERT model training, optimization, and deployment at scale.
+ |
+
 
 # System Requirements
 Each lab contains docker and singularity definition files. Follow the readme files inside each on how to build the container and run the labs inside it.
