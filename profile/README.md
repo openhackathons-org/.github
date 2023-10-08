@@ -26,7 +26,7 @@ The bootcamp content focuses on how AI can accelerate HPC simulations by introdu
 | ----------- | ----------- |
 | [Weather Pattern Recognition](https://github.com/openhackathons-org/gpubootcamp/tree/master/hpc_ai/ai_science_climate)      | This Bootcamp will introduce developers to fundamentals of AI and how data driven approach can be applied to Climate/Weather domain |
 | [CFD Flow Prediction](https://github.com/openhackathons-org/gpubootcamp/tree/master/hpc_ai/ai_science_cfd)      | This Bootcamp will introduce developers to fundamentals of AI and how they can be applied to CFD (Computational Fluid Dynamics) |
-| [PINN](https://github.com/openhackathons-org/gpubootcamp/tree/master/hpc_ai/PINN)      | This Bootcamp will introduce developers to fundamentals of using Physics Informed Neural Network and how they can be applied to different scientific domains using NVIDIA® Modulus |
+| [PINN](https://github.com/openhackathons-org/End-to-End-AI-for-Science)      | This Bootcamp will introduce developers to fundamentals of using Physics Informed Neural Network and how they can be applied to different scientific domains using NVIDIA® Modulus |
 
 - __AI__ ::
 The bootcamp content focuses on using popular accelerated AI frameworks and using optimization techniques to get max performance from accelerators like GPU.
