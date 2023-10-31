@@ -26,7 +26,6 @@ The bootcamp content focuses on how AI can accelerate HPC simulations by introdu
 | ----------- | ----------- |
 | [End to End AI for Science](https://github.com/openhackathons-org/End-to-End-AI-for-Science)      | This bootcamp provides a step-by-step overview of the fundamentals of deep neural networks, walks attendees through the hands-on experience of building and improving deep learning models using a framework that uses the fundamental laws of physics to model the behavior of complex systems, and enables attendees to visualize the physically accurate outputs of the trained model in near real-time. |
 
-This Bootcamp will introduce developers to fundamentals of using Physics Informed Neural Network and how they can be applied to different scientific domains using NVIDIA® Modulus. 
 
 - __AI__ ::
 The bootcamp content focuses on using popular accelerated AI frameworks and using optimization techniques to get max performance from accelerators like GPU.
