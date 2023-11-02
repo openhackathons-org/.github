@@ -20,13 +20,12 @@ This bootcamp content focuses on how to follow the “Analyze, Parallelize, and 
 
 
 - __Convergence of HPC and AI__ :: 
-The bootcamp content focuses on how AI can accelerate HPC simulations by introducing concepts of Deep Neural Networks, including data pre-processing, techniques on how to build, compare and improve accuracy of deep learning models. 
+The bootcamp content focuses on how AI can accelerate HPC simulations by introducing concepts of Deep Neural Networks, including Physics Informed Neural Networks, neural operators and techniques to visualise physically acccurate outputs from the trained models. 
 
 | Lab      | Description |
 | ----------- | ----------- |
-| [Weather Pattern Recognition](https://github.com/openhackathons-org/gpubootcamp/tree/master/hpc_ai/ai_science_climate)      | This Bootcamp will introduce developers to fundamentals of AI and how data driven approach can be applied to Climate/Weather domain |
-| [CFD Flow Prediction](https://github.com/openhackathons-org/gpubootcamp/tree/master/hpc_ai/ai_science_cfd)      | This Bootcamp will introduce developers to fundamentals of AI and how they can be applied to CFD (Computational Fluid Dynamics) |
-| [PINN](https://github.com/openhackathons-org/End-to-End-AI-for-Science)      | This Bootcamp will introduce developers to fundamentals of using Physics Informed Neural Network and how they can be applied to different scientific domains using NVIDIA® Modulus |
+| [End to End AI for Science](https://github.com/openhackathons-org/End-to-End-AI-for-Science)      | This bootcamp provides a step-by-step overview of the fundamentals of deep neural networks, walks attendees through the hands-on experience of building and improving deep learning models using a framework that uses the fundamental laws of physics to model the behavior of complex systems, and enables attendees to visualize the physically accurate outputs of the trained model in near real-time. |
+
 
 - __AI__ ::
 The bootcamp content focuses on using popular accelerated AI frameworks and using optimization techniques to get max performance from accelerators like GPU.
