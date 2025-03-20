@@ -33,13 +33,12 @@ The bootcamp content focuses on using popular accelerated AI frameworks and usin
 
 | Lab      | Description |
 | ----------- | ----------- |
-| [End to End Computer Vision](https://github.com/openhackathons-org/End-to-End-Computer-Vision) | This repository contains the material for the end-to-end computer vision bootcamp, the goal of which is to build a complete end-to-end computer vision pipeline for an object detection application. This bootcamp will introduce participants to multiple NVIDIA® SDKs, most notably NVIDIA TAO Toolkit, NVIDIA TensorRT™, NVIDIA Triton™ Inference Server, and NVIDIA DeepStream SDK. Participants will also have hands-on experience in data preprocessing, model training, optimization, and deployment at scale       |
 | [AI Profiler](https://github.com/openhackathons-org/AI-Profiler)   | Learn how optimizing a Deep Neural Network (DNN) training  using profiling tools   |
 | [End to End LLM](https://github.com/openhackathons-org/End-to-End-LLM) | The End-to-End LLM (Large Language Model) Bootcamp is designed from a real-world perspective that follows the data processing, development, and deployment pipeline paradigm. Attendees walk through the workflow of preprocessing the openassistant-guanaco dataset for the Text Generation task and training the dataset using the LLAMA 2 7Billion Model,a pre-trained and fine-tuned LLM. Attendees will also learn to optimize an LLM using NVIDIA® TensorRT™ LLM, an SDK for high-performance large language model inference, understand guardrail prompts and responses from the LLM model using NVIDIA NeMo Guardrails, and deploy the AI pipeline using NVIDIA TensorRT LLM Backend (powered by Triton™ Inference Server), an open-source software that standardizes LLM deployment and execution across every workload. |
 
 
 # System Requirements
-Each lab contains docker and singularity definition files. Follow the readme files inside each on how to build the container and run the labs inside it.
+Each repository contains docker/singularity/conda definition files. Follow the readme files inside each on how to build the container and run the labs inside it.
 
 # Contribution
 - The repository uses Apache 2.0 license. For more details on folder structure developers may refer to CONTRIBUTING.md file.
