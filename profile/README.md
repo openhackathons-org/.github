@@ -34,7 +34,7 @@ The bootcamp content focuses on using popular accelerated AI frameworks and usin
 | Lab      | Description |
 | ----------- | ----------- |
 | [AI Profiler](https://github.com/openhackathons-org/AI-Profiler)   | Learn how optimizing a Deep Neural Network (DNN) training  using profiling tools   |
-| [End to End LLM](https://github.com/openhackathons-org/End-to-End-LLM) | The End-to-End LLM (Large Language Model) Bootcamp is designed from a real-world perspective that follows the data processing, development, and deployment pipeline paradigm. Attendees walk through the workflow of preprocessing the openassistant-guanaco dataset for the Text Generation task and training the dataset using the LLAMA 2 7Billion Model,a pre-trained and fine-tuned LLM. Attendees will also learn to optimize an LLM using NVIDIA® TensorRT™ LLM, an SDK for high-performance large language model inference, understand guardrail prompts and responses from the LLM model using NVIDIA NeMo Guardrails, and deploy the AI pipeline using NVIDIA TensorRT LLM Backend (powered by Triton™ Inference Server), an open-source software that standardizes LLM deployment and execution across every workload. |
+| NeMo Challenge Bootcamp | Comming Soon. |
 | [NIM Bootcamp](https://github.com/openhackathons-org/NIM-Bootcamp) | The NVIDIA NIM bootcamp is designed to help developers get started with NVIDIA® NIM™ microservices by building real-world GenAI applications. The labs guide participants through setting up NIM Docker containers and utilizing REST API endpoints for serving inference requests. Additionally, attendees will explore fine-tuning models using Parameter Efficient Fine-Tuning (PEFT) techniques such as LoRA, with hands-on experience in fine-tuning adapters for the LLaMA-3 8B model. |
 
 
