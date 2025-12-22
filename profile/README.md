@@ -55,4 +55,4 @@ Each repository contains docker/singularity/conda definition files. Follow the R
 ## Join OpenACC Community
 Please join [OpenACC Slack Channel](https://openacclang.slack.com/messages/openaccusergroup).
 
-![Thank You](https://upload.wikimedia.org/wikipedia/commons/e/e5/Easter_Bunny_Postcard_1907.jpg)
+
